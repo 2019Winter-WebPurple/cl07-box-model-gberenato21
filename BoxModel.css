@@ -1,0 +1,41 @@
+/*
+* Grace Berenato
+* 10 May 2019
+* Box Model
+*/
+
+
+* { margin: 0;
+    padding: 0;
+}
+
+body {border-top: 5px dashed black;
+        border-right: 5px dashed black;
+        border-bottom: 5px dashed black;
+        border-left: 5px dashed black;
+        padding: 10px;
+        margin: 10px;}
+
+
+h1 {border-top: 3px dashed black;
+    border-right: 3px dashed black;
+    border-bottom: 3px dashed black;
+    border-left: 3px dashed black;
+    padding: 10px;
+    margin: 10px;}
+
+                       
+p {border-top: 3px dashed black;
+    border-right: 3px dashed black;
+    border-bottom: 3px dashed black;
+    border-left: 3px dashed black;
+    padding: 10px;
+    margin: 10px;}
+
+main {border-top: 5px solid black;
+        border-right: 5px solid black;
+        border-bottom: 5px solid black;
+        border-left: 5px solid black;
+        padding: 10px;
+        margin: 10px;}
+    
